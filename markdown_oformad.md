@@ -36,7 +36,7 @@ def fall() | void fall() |
 s = "Halló markdown!"
 print(s)
 ```
-```c++
+```javascript
 String s = "Halló markdown!";
 Serial.println(s);
 ```
