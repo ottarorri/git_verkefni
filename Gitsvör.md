@@ -32,3 +32,8 @@
 ### 6.
 
 * það fer eftir því hversu margar villur eða breytingar þú getrir og slýkt, en oftast er best að commita eftir hverja breytingu svo þú getur alltaf farið til baka ef það var einhver villa sem þú veist ekki hvar er í kóðanum til dæmis og fleira. 
+
+### 7.
+
+*  working directory er svæðið þar sem þú ert . Það er þar sem skrárnar þínar búa. 
+staging area virkar þannig að þegar þú vinnur að verkefninu og gerir breytingar ertu að eiga við working directory verkefnisins. Þetta er verkefnaskráin á skráarkerfi tölvunnar. Allar breytingar sem þú gerir verða áfram í working directory þar til þú bætir þeim við staging area (með git add command).
