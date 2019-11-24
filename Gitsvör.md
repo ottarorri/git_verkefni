@@ -20,3 +20,7 @@
 * git checkout gerir þér kleift að fletta á milli branches sem eru búin til af git branch.
   
 * git branch list-ar alla branches inní repository-inu þínu og segir þér líka hvaða branch þú ert í núna.
+
+### 4.
+
+* Version Control (revision control or source control) er leið til að recorda breytingar á skjali eða mörgum skjölum með tíma svo þú getur farið til baka í eldri útgáfur af skjölunum seinna. Það eru til mörg version control kerfi til, en Git er eins og er frægasta og mest notaða nútildags. Version control getur verið notað fyrir næstum allar tegundir af skjölum á tölvu, ekki bara source code.
