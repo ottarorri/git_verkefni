@@ -50,13 +50,13 @@ Serial.println(s);
 
 ### Incididunt eiusmod enim culpa sit voluptate velit adipisicing voluptate anim ut incididunt commodo ea.
 
- ![test](https://tskoli.is/wp-content/uploads/2019/06/skolavorduholt-705x475.jpg)
+ ![mynd](https://tskoli.is/wp-content/uploads/2019/06/skolavorduholt-705x475.jpg)
 
 
-Commodo quis id ut deserunt cillum.
+### Commodo quis id ut deserunt cillum.
 
-SETJA YOUTUBE MYNDBANDIÐ HÉR
-<a href="https://www.youtube.com/watch?v=HUBNt18RFbo" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+
+<a href="https://www.youtube.com/watch?v=HUBNt18RFbo" target="_blank"><img src="https://i1.ytimg.com/vi/HUBNt18RFbo/hqdefault.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
