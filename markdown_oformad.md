@@ -26,14 +26,15 @@ Non nisi deserunt fugiat occaecat voluptate nisi sunt enim aliquip laborum culpa
 
 **python** | **c/c++**
 | --- | --- |
-Still | renders |
-1 | 2 |
+print | serial.print() |
+while i < 10 | while(i < 10) |
+def fall() | void fall() |
 
-Et pariatur velit do adipisicing culpa velit non cillum minim.
+#### Et pariatur velit do adipisicing culpa velit non cillum minim.
 
-s = "Halló markdown!"
+```s = "Halló markdown!"
 print(s)
-
+```
 String s = "Halló markdown!";
 Serial.println(s);
 
