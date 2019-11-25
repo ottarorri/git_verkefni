@@ -28,3 +28,5 @@
 ### 5.
 
 * Það er þægilegt að geta vistað skjöl á netinu sem þú getur allaf hafið aðgang að og séð allt sem þú hefur gert og leyfir manni að fara til baka með því að nota history til að sjá gömul file eða fara aftur í elda file ef þú gerðir einhverja villu og villt fara til baka. Þú getur líka deilt hlutum léttilega með öðru fólki og annað fólk getur unnið á sömu hlutum og þú og hjálpað þér eða bætt einhverju við hjá þér og margt fleira. Ennig getur maður followað fólk sem eru að búa til eitthvað áhugavert í git og fengið alltaf nýjustu upplýsingar um allt sem hann gerir þegar hann commitar og fleira.
+
+* Þitt álit:
